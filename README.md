@@ -1,4 +1,4 @@
-![enter image description here](https://github.com/azizbelhadjsayar/azizbelhadjsayar/blob/main/BlackMinimalMotivationQuoteLinkedInBanner4-ezgif.com-optimize.gif?raw=true)
+![enter image description here](https://github.com/azizbelhadjsayar/azizbelhadjsayar/blob/main/banner.gif?raw=true)
 <h1>🧑🏻‍💻 Aziz Belhadj Sayar</h1>
 
 **`BI Student (Developer/Analyst)`**
@@ -86,19 +86,19 @@ Feel free to explore my work, and don't hesitate to reach out if you'd like to d
   <tr>
     <td>
       <a href="https://www.coursera.org/account/accomplishments/specialization/7SKBCLWCU6HL" target="_blank">
-        <img src="https://github.com/azizbelhadjsayar/azizbelhadjsayar/blob/main/00001%20(1).png?raw=true" alt="PDF Thumbnail" style="width:350px;"/>
+        <img src="https://github.com/azizbelhadjsayar/azizbelhadjsayar/blob/main/ML.png?raw=true"/>
       </a>
     </td>
     <td>
       <a href="https://www.coursera.org/account/accomplishments/specialization/HP62NRPUS4KN" target="_blank">
-        <img src="https://github.com/azizbelhadjsayar/azizbelhadjsayar/blob/main/00001%20(3).png?raw=true" alt="PDF Thumbnail" style="width:350px;"/>
+        <img src="https://github.com/azizbelhadjsayar/azizbelhadjsayar/blob/main/python.png?raw=true"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://www.coursera.org/account/accomplishments/specialization/4EES6F24BL5A" target="_blank">
-        <img src="https://github.com/azizbelhadjsayar/azizbelhadjsayar/blob/main/00001%20(2).png?raw=true" alt="PDF Thumbnail" style="width:350px;"/>
+        <img src="https://github.com/azizbelhadjsayar/azizbelhadjsayar/blob/main/python.png?raw=true" alt="PDF Thumbnail" style="width:350px;"/>
       </a>
     </td>
   </tr>
