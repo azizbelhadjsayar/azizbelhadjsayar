@@ -27,7 +27,7 @@ Feel free to explore my work, and don't hesitate to reach out if you'd like to d
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/opencv-%230101f7.svg?style=for-the-badge&logo=opencv&logoColor=01f701"/>
+  <img src="https://img.shields.io/badge/opencv-%230101f7.svg?style=for-the-badge&logo=opencv&logoColor=F70101"/>
   <img alt="Json" src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white"/>
 </p>
 <p>
