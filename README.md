@@ -1,4 +1,4 @@
-![enter image description here](https://github.com/azizbelhadjsayar/azizbelhadjsayar/blob/main/banner.gif?raw=true)
+![enter image description here](https://github.com/user-attachments/assets/34ba4e9d-a182-476c-89dc-e57a3c0754a5)
 <h1>🧑🏻‍💻 Aziz Belhadj Sayar</h1>
 
 **`BI Student (Developer/Analyst)`**
