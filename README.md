@@ -101,9 +101,47 @@ Feel free to explore my work, and don't hesitate to reach out if you'd like to d
         <img src="https://github.com/user-attachments/assets/6204e58a-13a0-4e2e-b944-6e38d51d7e5f"/>
       </a>
     </td>
+    <td>
+      <a href="https://www.coursera.org/account/accomplishments/verify/CXZ7IOI0TD6F" target="_blank">
+        <img src="https://github.com/user-attachments/assets/381fc48c-cb5a-4642-a5bd-613611eda26b"/>
+      </a>
+    </td>
   </tr>
   <tr>
-
+    <td>
+      <a href="https://www.coursera.org/account/accomplishments/verify/JXBWSBRYUNU3" target="_blank">
+        <img src="https://github.com/user-attachments/assets/9095d4d0-79dc-4c33-b6f9-f735df195409"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.coursera.org/account/accomplishments/verify/3R5XEN72GNZS" target="_blank">
+        <img src="https://github.com/user-attachments/assets/6a6ed28f-b484-4b7b-a621-bf980ebd3e98"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.coursera.org/account/accomplishments/verify/Q2JM296ERJG9" target="_blank">
+        <img src="https://github.com/user-attachments/assets/f0a75d12-cfa6-4111-aa27-4e773e59443b"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.coursera.org/account/accomplishments/verify/JCRGE5ZBBLZT" target="_blank">
+        <img src="https://github.com/user-attachments/assets/0f9b5ce1-aefa-4f03-b3ea-30c5de58fa21"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.coursera.org/account/accomplishments/verify/N6M9GZWNTDHZ" target="_blank">
+        <img src="https://github.com/user-attachments/assets/449bd3d8-2c7c-4b88-a9f9-c2b153f753ac"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.coursera.org/account/accomplishments/verify/DQSBZLER2K6L" target="_blank">
+        <img src="https://github.com/user-attachments/assets/22c69311-a2b6-4a19-a25d-75736d1e447e"/>
+      </a>
+    </td>
   </tr>
 </table>
 </details>
