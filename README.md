@@ -16,7 +16,7 @@ Feel free to explore my work, and don't hesitate to reach out if you'd like to d
 <br>
 </p>
 
-<h2>🧰 Languages and Tools</h2> 
+<h2>🧰 Languages and tools</h2> 
 <!--Programming languages-->
 <p>
   <br>
@@ -86,19 +86,19 @@ Feel free to explore my work, and don't hesitate to reach out if you'd like to d
   <tr>
     <td>
       <a href="https://www.coursera.org/account/accomplishments/specialization/7SKBCLWCU6HL" target="_blank">
-        <img src="https://github.com/azizbelhadjsayar/azizbelhadjsayar/blob/main/ML.png?raw=true"/>
+        <img src="https://github.com/user-attachments/assets/68ecd236-a3f1-49ab-9e6e-031e66980ee5"/>
       </a>
     </td>
     <td>
       <a href="https://www.coursera.org/account/accomplishments/specialization/HP62NRPUS4KN" target="_blank">
-        <img src="https://github.com/azizbelhadjsayar/azizbelhadjsayar/blob/main/python.png?raw=true"/>
+        <img src="https://github.com/user-attachments/assets/d3361517-0729-4e17-ac27-433e40529f1d"/>
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://www.coursera.org/account/accomplishments/specialization/4EES6F24BL5A" target="_blank">
-        <img src="https://github.com/azizbelhadjsayar/azizbelhadjsayar/blob/main/python.png?raw=true" alt="PDF Thumbnail" style="width:350px;"/>
+        <img src="https://github.com/user-attachments/assets/6204e58a-13a0-4e2e-b944-6e38d51d7e5f"/>
       </a>
     </td>
   </tr>
@@ -113,6 +113,6 @@ Feel free to explore my work, and don't hesitate to reach out if you'd like to d
 <p align="center">
     <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizbelhadjsayar&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 <!--   <p align="center"> -->
- <img width="1000" src="github-snake.svg" alt="snake"/>
+ <img width="1000" src="https://github.com/user-attachments/assets/a78c796c-c351-4e2a-b2b0-b62806f17f33" alt="snake"/>
 <!-- </p> -->
 </p>
