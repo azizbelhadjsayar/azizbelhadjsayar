@@ -78,9 +78,9 @@ Feel free to explore my work, and don't hesitate to reach out if you'd like to d
   <img alt="Windows 10" src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </details>
-
+<hr>
 <details>
-  <summary><h2>✅ Explore my credentials</h2></summary>
+  <summary><h2>✅ My credentials</h2></summary>
   <h3>My profile on coursera : <a href="https://www.coursera.org/user/338411d0fbdbf87f4dffa388485d20ed"><img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white"/ width="80"></a></h3>
   <table style="border-collapse: collapse; border: none;">
   <tr>
@@ -108,3 +108,11 @@ Feel free to explore my work, and don't hesitate to reach out if you'd like to d
 </table>
 </details>
 
+
+<hr>
+<p align="center">
+    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizbelhadjsayar&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+<!--   <p align="center"> -->
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+<!-- </p> -->
+</p>
