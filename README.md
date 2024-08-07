@@ -149,8 +149,6 @@ Feel free to explore my work, and don't hesitate to reach out if you'd like to d
 
 <hr>
 <p align="center">
-    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizbelhadjsayar&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-<!--   <p align="center"> -->
- <img width="1000" src="https://github.com/user-attachments/assets/a78c796c-c351-4e2a-b2b0-b62806f17f33" alt="snake"/>
-<!-- </p> -->
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizbelhadjsayar&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="1000" src="https://github.com/user-attachments/assets/a78c796c-c351-4e2a-b2b0-b62806f17f33" alt="snake"/>
 </p>
