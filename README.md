@@ -2,7 +2,7 @@
 <h1>🧑🏻‍💻 Aziz Belhadj Sayar</h1>
 
 **`BI Student (Developer/Analyst)`**
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## 👨‍💻 About Me
 I am a passionate student with a deep love for data and exploration. My journey in the world of data started with a curiosity to understand and leverage data to uncover insights and drive impactful solutions. I am currently studying Business Intelligence, with a strong interest in Artificial Intelligence, Machine Learning, and Computer Vision.
 
@@ -16,7 +16,9 @@ Feel free to explore my work, and don't hesitate to reach out if you'd like to d
 <br>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2>🧰 Languages and tools</h2> 
+
 <!--Programming languages-->
 <p>
   <br>
@@ -59,6 +61,8 @@ Feel free to explore my work, and don't hesitate to reach out if you'd like to d
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <br>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <details>
 <summary><h2>👾 More tools</h2></summary>
   <br>
