@@ -1,6 +1,8 @@
 ![enter image description here](https://github.com/azizbelhadjsayar/azizbelhadjsayar/blob/main/banner.gif?raw=true)
 <h1>🧑🏻‍💻 Aziz Belhadj Sayar</h1>
 
+<!-- <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Student;E-learing+in+Machine+Learning;Deep+Learning+%7C+AI" alt="Typing SVG" /></p> -->
+
 **`BI Student (Developer/Analyst)`**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## 👨‍💻 About Me
