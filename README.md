@@ -10,11 +10,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 👨‍💻 About Me
-I’m a **Software Engineering Master’s student at Université Paris-Saclay (Évry)**, passionate about building intelligent, scalable, and user-centered digital solutions.  
-My journey blends **software development**, **AI & machine learning**, and **automation**, driven by the goal of turning ideas into impactful, real-world applications.
+I’m a **Software Engineering Master’s student at Université Paris-Saclay (Évry)** with a strong interest in data engineering and analytics. I enjoy designing data pipelines, Lakehouse architectures, and analytics-ready datasets that turn raw data into reliable and actionable information.
 
-I enjoy exploring how **code, data, and creativity** come together — whether through a smart dashboard, a full-stack web app, or an AI-powered system.  
-Always curious and proactive, I’m constantly learning, experimenting, and sharing projects that push technology forward.
+My background combines software engineering, data modeling, and cloud-based data platforms, with hands-on experience in building structured data layers for analytics and decision-making. I’m particularly interested in how data systems scale and how well-designed data architectures support downstream use cases such as BI and machine learning.
+
+Curious and proactive, I’m constantly learning and experimenting with modern data stacks, sharing projects that focus on data reliability, performance, and real-world impact.
 
 <p>
 <a href="https://www.linkedin.com/in/azizbelhadjsayar/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
