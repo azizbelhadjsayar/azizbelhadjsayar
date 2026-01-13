@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=550&lines=Software+Engineering+Student;Artificial+Intelligence+%7C+Machine+Learning;Full-Stack+%26+Web+Development;Automation+%7C+Innovation+%7C+Data-Driven+Solutions" alt="Typing SVG" />
 </p>
 
-**`Software Engineering | AI | Web Development`**
+**`Data Engineering | Data Analysis | AI`**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
